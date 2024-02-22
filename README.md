@@ -1,6 +1,5 @@
 # Yolov8_ros
 
-For simplified Chinese version: [简体中文版](./README_CN.md) 
 
 This package provides a ROS wrapper for [PyTorch-YOLOv8](https://github.com/ultralytics/ultralytics) based on PyTorch-YOLOv8. The package has been tested with Ubuntu 18.04 and Ubuntu 20.04.
 
